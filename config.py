@@ -1,19 +1,13 @@
 # config.py
 
-API_KEY = "uygGUFhhdnci7668hhd87657"
+API_KEY = ""
 
 # Adresses IP des capteurs de l'entreprise (exemples d'adresses internes)
-SENSOR_IPS = [
-    "10.0.0.10",
-    "10.0.0.11",
-    "10.0.0.12",
-    "10.0.0.13",
-    "10.0.0.14"
-]
+SENSOR_IPS = []
 
 # URL de l'API pour récupérer les données d'énergie
-API_URL = "http://api.greenquantumpulse.local/energy"
+API_URL = ""
 
 DB_USERNAME = "admin"
-DB_PASSWORD = "adminQCP2024"
-DB_URL = "http://db.greenquantumpulse.local"
+DB_PASSWORD = ""
+DB_URL = ""
